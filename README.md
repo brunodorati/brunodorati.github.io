@@ -4,6 +4,8 @@
 
 **[brunodorati@gmail.com](mailto:brunodorati@gmail.com)**
 
+**https://www.linkedin.com/in/bruno-dorati**
+
 (11) 97013 4384
 
 </div>
@@ -34,7 +36,7 @@ Server.
 Cypress.
 * Refatoração constante de código voltada para melhoria de performance e
 escalabilidade.
-* API Gateway Sensedia
+* API Gateway, Log de erros Sensedia
 * Análise da integridade do software em ambiente de produção com DynaTrace
 * Ai First
 
@@ -44,7 +46,7 @@ PyAutoGUI.
 * Gestão de prospecção de novos clientes e negócios.
 * Engenharia de requisitos e desenho de soluções de software.
 
-**SBK Business Solution ** | 03/2019 – 04/2022 | **Analista Programador**
+**SBK Business Solution** | 03/2019 – 04/2022 | **Analista Programador**
 * Criação e monitoramento de fluxos de RPA (UiPath, Automate, Robot).
 * Desenvolvimento de backend e criação de relatórios complexos em Jasper Reports.
 * Customização do software ERP ZURI.
@@ -71,4 +73,3 @@ especializado.
 * ERP CEGID – Eficaz-se (2014).
 * SAP ABAP – Ka Solution (2013).
 * Atendimento e Técnicas de Vendas – Atento Brasil / Direct Sale (2006).
-	
