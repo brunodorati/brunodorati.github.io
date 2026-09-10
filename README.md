@@ -17,14 +17,14 @@ Desenvolvedor Full Stack Sênior & Especialista em RPA | Foco em .NET, Angular e
 * FATEC – Tecnologia em Processamento de Dados.
 
 **Idiomas**
-* Inglês: Intermediário.
+* **Inglês:** Intermediário/Técnico (Leitura avançada de documentações, escrita e conversação funcional).
 
 #### Resumo de Competências
 * **Backend & Linguagens:** C# (.NET Core/Framework, ASP.NET, MVC, Web API), Java, Go | *Legados:* Delphi, VB6, C++.
 * **Frontend & Estado:** Angular, Vue.js, NgRx, XState.
 * **Persistência & Bancos de Dados:** SQL Server, Oracle, PostgreSQL, MySQL, Firebird | Entity Framework, Dapper, NHibernate.
 * **Automação & Relatórios:** UiPath, Python (Selenium, PyAutoGUI, Macro Scheduler), Automate | Jasper Reports, Crystal Reports.
-* **Infraestrutura, DevOps & Projetos:** Linux (Debian, Ubuntu, CentOS, Slackware), Docker, Portainer, Traefik, Uptime Kuma, VMware | Git, SVN, RedMine.
+* **Infraestrutura, DevOps & Projetos:** Azure DevOps (Pipelines, CI/CD), Linux (Debian, Ubuntu, CentOS, Slackware), Docker, Portainer, Traefik, Uptime Kuma, VMware | Git, SVN, RedMine.
 
 #### Experiência Profissional
 **Stefanini Group(Zurich/ReadAsset)** | 09/2022 – 04/2026 | **Analista Desenvolvedor Sênior**
@@ -36,9 +36,10 @@ Server.
 Cypress.
 * Refatoração constante de código voltada para melhoria de performance e
 escalabilidade.
-* API Gateway, Log de erros Sensedia
+* API Gateway, Log de erros e versionamento de API com Sensedia.
 * Análise da integridade do software em ambiente de produção com DynaTrace
-* Ai First
+* Depuração e otimização de pipelines CI/CD no Azure Pipelines.
+* Aplicação de diretrizes AI-first no fluxo de desenvolvimento, aceleração de código e suporte à criação de testes de software.
 
 **Etcetera Consultoria E Sistemas** | 04/2022 – 09/2022 | **CEO / Sócio-Diretor**
 * Desenvolvimento, manutenção e monitoramento de RPAs com Selenium e
@@ -63,13 +64,6 @@ especializado.
 * Desenvolvimento de sistemas contábeis em Delphi (3, 7 e XE2).
 * Tratamento de dados para SPED Fiscal e Contábil, CT-e e NF-e de Serviços.
 
-**Planner Consultoria de Informática | 07/2007 – 01/2011 | Programador Delphi**
+**Planner Consultoria de Informática** | 07/2007 – 01/2011 | **Programador Delphi**
 * Desenvolvimento e suporte de sistemas ERP em Delphi 7 com Firebird.
 * Administração de ambiente GNU/Linux e servidores de rede (Samba, CUPS e SVN).
-
-#### Cursos e Certificações Complementares
-* Robot Framework e Python – SBK (2021).
-* Angular – Code School (2015).
-* ERP CEGID – Eficaz-se (2014).
-* SAP ABAP – Ka Solution (2013).
-* Atendimento e Técnicas de Vendas – Atento Brasil / Direct Sale (2006).
