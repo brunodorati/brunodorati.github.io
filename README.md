@@ -48,10 +48,10 @@ PyAutoGUI.
 * Engenharia de requisitos e desenho de soluções de software.
 
 **SBK Business Solution** | 03/2019 – 04/2022 | **Analista Programador**
-* Criação e monitoramento de fluxos de RPA (UiPath, Automate, Robot).
-* Desenvolvimento de backend e criação de relatórios complexos em Jasper Reports.
+* Desenvolvimento de microsserviços de alta concorrência para integração de sistemas, mensageria via filas e processamento de relatórios complexos em Jasper Reports.
 * Customização do software ERP ZURI.
 * Manutenção de portais internos em ASP.NET MVC e rotinas em SQL Server e Oracle.
+* Criação e monitoramento de fluxos de RPA (UiPath, Automate, Robot).
 
 **Eficaz-se** | 03/2013 – 01/2019 |  **Analista Programador**
 * Responsável pela localização brasileira do ERP CEGID (adaptação às normas
